@@ -1,4 +1,6 @@
-# ¿ Que es Pytorch ?
+# ¿ Que es PyTorch ?
+
+PyTorch es una biblioteca de aprendizaje automático de código abierto para Python, basada en Torch, utilizada para aplicaciones como el procesamiento de lenguaje natural.
 
 ## Instalacion
 
