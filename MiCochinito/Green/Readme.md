@@ -7,10 +7,10 @@
 *   Asistencia.
 *   Tips Financieros.
 *   Conocer servicios y promociones.
-#### Action *"Hablar con Green".*
-#### Action *"Enviar Dinero"*.
-#### Action *"Buscar sucursales"*.
-#### Action *"Asistencia"*.
-#### Action *"Tips Financieros"*.
-#### Action *"Conocer servicios y promociones"*.
+#### Action *"Hablar con Green" .*
+#### Action *"Enviar Dinero"* .
+#### Action *"Buscar sucursales"* .
+#### Action *"Asistencia"* .
+#### Action *"Tips Financieros"* .
+#### Action *"Conocer servicios y promociones"* .
 
