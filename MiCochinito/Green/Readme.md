@@ -10,7 +10,7 @@
 #### Action *"Hablar con Green" .*
 #### Action *"Enviar Dinero"* .
 #### Action *"Buscar sucursales"* .
-#### Action *"Asistencia"* .
+#### Action *"Asistencia / Ayuda "* .
 #### Action *"Tips Financieros"* .
 #### Action *"Conocer servicios y promociones"* .
 
